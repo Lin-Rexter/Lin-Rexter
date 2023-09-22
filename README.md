@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="display:flex;align-items:start;justify-content:space-around;">
+<div style="display:flex;align-items:start;justify-content:space-between;">
 <!--
 <picture>
   <source
