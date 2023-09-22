@@ -40,7 +40,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=tokyonight&border_color=42dfeb&ring_color=ebb042&border_radius=6"
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=tokyonight&border_color=42dfeb&ring_color=ebb042&border_radius=6"
 	/>
 </a>
 
