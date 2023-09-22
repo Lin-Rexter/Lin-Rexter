@@ -1,20 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=tokyonight&border_color=42dfeb&ring_color=ebb042&border_radius=6"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=transparent&border_color=a2dec9&ring_color=4be394&border_radius=6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=transparent&border_color=a2dec9&ring_color=4be394&border_radius=6" />
+</picture>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-Rexter&layout=compact&bg_color=353535&border_radius=10px&title_color=ffa200&text_color=07b1fa&border_color=31f5db&langs_count=10&custom_title====%20Most%20Used%20Languages%20=== />
+	<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-Rexter&layout=donut&theme=one_dark_pro&border_radius=6&border_color=a2dec9&langs_count=10 />
 </a>
-
-<!--
-**Lin-Rexter/Lin-Rexter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
