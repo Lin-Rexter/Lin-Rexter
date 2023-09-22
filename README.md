@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lin-Rexter</h1>
-<h3 align="center">I'm a university student who enjoys coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lin-rexter&label=Profile%20views&color=0e75b6&style=flat" alt="lin-rexter" /> </p>
 
@@ -43,7 +42,6 @@
 		src="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=tokyonight&border_color=42dfeb&ring_color=ebb042&border_radius=6"
 	/>
 </a>
-<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img 
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-Rexter&layout=donut&theme=one_dark_pro&border_radius=6&border_color=a2dec9&langs_count=10"
