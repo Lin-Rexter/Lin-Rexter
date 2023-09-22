@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<div align="center">
+<div align="center" style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-evenly;">
 
-<div align="left">
+<div>
 
 <picture>
   <source
@@ -18,7 +18,7 @@
 
 </div>
 
-<div align="right">
+<div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-Rexter&layout=donut&theme=one_dark_pro&border_radius=6&border_color=a2dec9&langs_count=10 />
