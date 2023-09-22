@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lin-rexter&label=Profile%20views&color=0e75b6&style=flat" alt="lin-rexter" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lin-rexter&column=4&margin-w=10&margin-h=10&theme=nord" alt="lin-rexter" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lin-rexter&column=6&margin-w=10&margin-h=10&theme=nord" alt="lin-rexter" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/titanretex" target="blank"><img src="https://img.shields.io/twitter/follow/titanretex?logo=twitter&style=for-the-badge" alt="titanretex" /></a> </p>
 
