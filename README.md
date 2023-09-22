@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="display:flex;align-items:start;justify-content:space-around;">
-
+<!--
 <picture>
   <source
 	srcset="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=tokyonight&border_color=42dfeb&ring_color=ebb042&border_radius=6"
@@ -12,9 +12,17 @@
 	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img 
-	src="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=tokyonight&border_color=42dfeb&ring_color=ebb042&border_radius=6"
+	src="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=transparent&border_color=a2dec9&ring_color=4be394&border_radius=6"
   />
 </picture>
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img 
+		align="center"
+		src="https://github-readme-stats.vercel.app/api?username=Lin-Rexter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=tokyonight&border_color=42dfeb&ring_color=ebb042&border_radius=6"
+	/>
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img 
