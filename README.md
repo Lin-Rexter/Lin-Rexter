@@ -36,7 +36,7 @@
 -->
 
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lin-rexter&" alt="lin-rexter" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lin-rexter&" alt="lin-rexter" />
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
