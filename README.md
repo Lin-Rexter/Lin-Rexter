@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lin-Rexter</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lin-rexter&label=Profile%20views&color=0e75b6&style=flat" alt="lin-rexter" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lin-rexter&label=Profile%20views&color=0e75b6&style=flat" alt="lin-rexter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lin-rexter&column=5&margin-w=10&margin-h=10&theme=onedark" alt="lin-rexter" /></a> </p>
 
