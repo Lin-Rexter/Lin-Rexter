@@ -11,8 +11,8 @@
 <a href="https://dev.to/linrexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="linrexter" height="30" width="40" /></a>
 <a href="https://twitter.com/titanretex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="titanretex" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16206368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16206368" height="30" width="40" /></a>
-<a href="https://kaggle.com/lin-rexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lin-rexter" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/retex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="retex" height="30" width="40" /></a>
+<a href="https://kaggle.com/linrexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lin-rexter" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Lin-Rexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="retex" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
